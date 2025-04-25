@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the following associated publication."
+title: "Scientific Open-Source Software Is Less Likely to Become Abandoned Than One Might Think! Lessons from Curating a Catalog of Maintained Scientific Software"
+authors:
+  - family-names: Malviya Thakur
+    given-names: Addi 
+    orcid: https://orcid.org/0000-0002-2681-9992
+    affiliation: University of Tennessee at Knoxville, USA and Oak Ridge National Lab, USA
+  - family-names: Milewicz
+    given-names: Reed
+    orcid: https://orcid.org/0000-0002-1701-0008
+    affiliation: Sandia National Laboratories, USA
+  - family-names: Jahanshahi
+    given-names: Mahmoud
+    orcid: https://orcid.org/0000-0003-4408-1183
+    affiliation: University of Tennessee at Knoxville, USA
+  - family-names: Paganini
+    given-names: Lavínia
+    orcid: https://orcid.org/0000-0002-2729-0314
+    affiliation: Eindhoven University of Technology, Netherlands
+  - family-names: Vasilescu
+    given-names: Bogdan
+    orcid: https://orcid.org/0000-0003-4418-5783
+    affiliation: Carnegie Mellon University, USA
+  - family-names: Mockus
+    given-names: Audris
+    orcid: https://orcid.org/0000-0002-7987-7598
+    affiliation: University of Tennessee at Knoxville, USA
+abstract: >
+  This repository supports the study "Scientific Open-Source Software Is Less Likely to Become Abandoned Than One Might Think!"
+  It contains data and code curated to identify scientific open-source projects across 13 STEM domains and to analyze their longevity,
+  providing insights into infrastructure sustainability, downstream dependencies, and the comparative survival of scientific versus non-scientific software.
+repository-code: https://github.com/AddiMT/DataAndCodeFSE2025
+license: MIT
+keywords:
+  - scientific software
+  - open source
+  - software sustainability
+  - software longevity
+  - software ecosystems
+  - research software
+  - large language models
+version: 1.0.0
+date-released: 2025-04-25
+doi: 10.1145/3729369
